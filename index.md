@@ -1,5 +1,5 @@
 # 🤖 Штучний інтелект та машинне навчання
-![Обкладинка курсу](resources/images/ai-cover.jpg)
+![Обкладинка курсу](resources/images/ai-cover.png)
 
 ## 👋 Вітаємо на курсі!
 
