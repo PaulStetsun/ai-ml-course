@@ -72,5 +72,4 @@
 
 ---
 
-```md
 [⬅️ До теорії](../theory/main-content.md) | [Пройти тест ➡️](../tests/self-check.md)
