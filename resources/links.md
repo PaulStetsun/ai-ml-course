@@ -1,51 +1,51 @@
-# 🌐 Корисні ресурси для вивчення штучного інтелекту
+# 🌐 Корисні ресурси для вивчення ШІ
 
 ## 🎥 1. Відео (YouTube)
 
-- 🧠 Основи нейромереж простими словами  
-  :contentReference[oaicite:0]{index=0}
+- 🧠 Штучний інтелект простими словами (CrashCourse AI)  
+  https://www.youtube.com/watch?v=2ePf9rue1Ao
 
-- 🤖 Що таке штучний інтелект  
-  :contentReference[oaicite:1]{index=1}
+- 🤖 Як працюють нейронні мережі (3Blue1Brown)  
+  https://www.youtube.com/watch?v=aircAruvnKk
 
-- 📊 Вступ до AI та машинного навчання  
-  :contentReference[oaicite:2]{index=2}
+- 📊 Вступ до AI та машинного навчання (повний курс CrashCourse AI)  
+  https://www.youtube.com/watch?v=JMUxmLyrhSk
 
 ---
 
 ## 📚 2. Безкоштовні курси та статті
 
 - 🎓 Google Machine Learning Crash Course  
-  :contentReference[oaicite:3]{index=3}
+  https://developers.google.com/machine-learning/crash-course
 
-- 📘 Вступ до штучного інтелекту (IBM)  
-  :contentReference[oaicite:4]{index=4}
+- 🧠 DeepLearning.AI — Introduction to AI (основи генеративного AI)  
+  https://www.deeplearning.ai/courses/introduction-to-generative-ai/
 
-- 🧠 Практичне навчання AI (fast.ai)  
-  :contentReference[oaicite:5]{index=5}
+- 📘 fast.ai — Practical Deep Learning for Coders  
+  https://www.fast.ai/
 
 ---
 
-## 🛠️ 3. Інструменти для роботи з ШІ
+## 🛠️ 3. Інструменти ШІ
 
-- 💬 :contentReference[oaicite:6]{index=6} — ChatGPT  
-  :contentReference[oaicite:7]{index=7}
+- 💬 ChatGPT (OpenAI)  
+  https://chat.openai.com
 
-- 🤖 :contentReference[oaicite:8]{index=8} — Claude  
-  :contentReference[oaicite:9]{index=9}
+- 🤖 Claude (Anthropic)  
+  https://claude.ai
 
-- 🎨 :contentReference[oaicite:10]{index=10} — Midjourney  
-  :contentReference[oaicite:11]{index=11}
+- 🎨 Midjourney (генерація зображень)  
+  https://www.midjourney.com
 
 ---
 
 ## 🏁 Висновок
 
-Ці ресурси допоможуть:
+Ці ресурси дозволяють:
 
-- краще зрозуміти основи ШІ 🤖  
-- навчитися працювати з сучасними AI-інструментами 💻  
-- розвивати практичні навички майбутнього 🚀
+- 📖 вивчити базу AI та ML  
+- 🧪 побачити реальні приклади роботи нейромереж  
+- 🛠️ навчитися користуватися сучасними AI-інструментами  
 
 ---
 
