@@ -1,7 +1,8 @@
 <script type="module">
-  import mermaid from 'https://jsdelivr.net';
+  import mermaid from 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.12.0/mermaid.esm.min.mjs';
   mermaid.initialize({ startOnLoad: true });
 </script>
+
 
 # 🤖 Основи машинного навчання
 
