@@ -15,4 +15,4 @@
 <script src="../scripts/interactive.js"></script>
 
 <br><br>
-[⬅️ Назад до практики](../practice/tasks.md) | [🏠 На головну](../index.md)
+[⬅️ Назад до Лабораторної](../practice/labs.md) | [🏠 На головну](../index.md) | [Перейти до Підсумкового оцінювання ➡️](assessment.md)
