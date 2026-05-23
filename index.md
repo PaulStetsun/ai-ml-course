@@ -48,10 +48,21 @@
 
 # 📚 Навігація по курсу
 
-- 📖 [Теорія](theory/main-content.md)
-- 🧠 [Словник](theory/glossary.md)
-- 💻 [Практика](practice/tasks.md)
-- 📝 [Тести](tests/self-check.md)
+### 📖 Теоретичний блок:
+- 📄 [Основи машинного навчання](theory/main-content.md)
+- 🌍 [Приклади використання ШІ](theory/examples.md)
+- 🧠 [Словник термінів](theory/glossary.md)
+
+### 💻 Практичний блок:
+- ✍️ [Практичні завдання (Промпти)](practice/tasks.md)
+- 🧪 [Лабораторна робота (Власна нейромережа)](practice/labs.md)
+
+### 📝 Перевірка знань:
+- 🎮 [Інтерактивний тест (JS)](tests/self-check.md)
+- 🎓 [Підсумкове оцінювання (Есе)](tests/assessment.md)
+
+### 🌐 Додатково:
+- 🔗 [Корисні ресурси та відео](resources/links.md)
 
 ---
 
