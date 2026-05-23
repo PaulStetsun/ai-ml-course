@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles/custom.css">
 # 🤖 Штучний інтелект та машинне навчання
 ![Обкладинка курсу](resources/images/ai-cover.png)
 
