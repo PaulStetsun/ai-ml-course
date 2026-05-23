@@ -72,4 +72,4 @@
 
 ---
 
-[⬅️ До теорії](../theory/main-content.md) | [Пройти тест ➡️](../tests/self-check.md)
+[⬅️ Назад до теорії](../theory/main-content.md) | [🏠 На головну](../index.md) | [Перейти до Лабораторної роботи ➡️](labs.md)
